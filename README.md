@@ -1,4 +1,11 @@
-# Edge_AI_TinyML_Course_2024
+
+this is note for this class 
+most of after ch08
+---
+
+###  *original content*
+--- 
+#  Edge_AI_TinyML_Course_2024
 
 ## 歡迎來到 OmniXRI's Edge AI &amp; TinyML小學堂   
 本課程完全免費，請勿移作商業用途！歡迎留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。
