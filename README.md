@@ -1,6 +1,6 @@
 
 this is note for this class 
-most of after ch08
+in note folder
 ---
 
 ###  *original content*
